@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a UI developer currently working on Spirit of the North 2 for Infuse Studio. I primarily work in Unreal Engine 5, and use C++ both in Unreal and out for side projects. I am learning D Lang.
+I am also in my second year of university studying Computer Games Design.
 
 <!--
 **ostanton/ostanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
