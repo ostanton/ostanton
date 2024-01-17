@@ -1,18 +1,28 @@
-### Hi there 👋
-Current Work - UI Developer on Spirit of the North 2.
+# Hello World!
+## Current Work:
+UI Developer on Spirit of the North 2.
 
-Education - Computer Games Design 2nd year student at Anglia Ruskin University, Cambridge.
+## Education:
+- Computer Games Design 2nd year student at Anglia Ruskin University, Cambridge.
 
-Interests - User Interfaces, both programming them and designing them.
+## Interests:
+- User Interfaces, both programming them and designing them.
 
-Proficient Languages - C++, Unreal Blueprints, HTML & CSS.
+## Proficient Languages
+- C++,
+- Unreal Blueprints,
+- HTML & CSS.
 
-Learning Languages - D Lang.
+## Learning Languages
+- D Lang.
 
-Proficient Engines - Unreal Engine, Unity.
+## Proficient Engines:
+- Unreal Engine,
+- Unity.
 
-Career Experience - Web Development for Site-Street, UI Developer for Infuse Studio.
-
+## Career Experience:
+- Web Development for Site-Street,
+- UI Developer for Infuse Studio.
 
 More about my hobbies and interests: [oliverstanton.co.uk](https://oliverstanton.co.uk/)
 
