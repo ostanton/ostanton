@@ -1,6 +1,13 @@
 ### Hi there 👋
-I am a UI developer currently working on Spirit of the North 2 for Infuse Studio. I primarily work in Unreal Engine 5, and use C++ both in Unreal and out for side projects. I am learning D Lang.
-I am also in my second year of university studying Computer Games Design.
+Current Work - UI Developer on Spirit of the North 2.
+Education - Computer Games Design 2nd year student at Anglia Ruskin University, Cambridge.
+Interests - User Interfaces, both programming them and designing them.
+Proficient Languages - C++, Unreal Blueprints, HTML & CSS.
+Learning Languages - D Lang.
+Proficient Engines - Unreal Engine, Unity.
+Career Experience - Web Development for Site-Street, UI Developer for Infuse Studio.
+
+More about my hobbies and interests: oliverstanton.co.uk
 
 Email me at info@oliverstanton.co.uk
 
