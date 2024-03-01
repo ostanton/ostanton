@@ -13,9 +13,6 @@ UI Developer on Spirit of the North 2.
 - Unreal Blueprints,
 - HTML & CSS.
 
-## Learning Languages
-- D Lang.
-
 ## Proficient Engines:
 - Unreal Engine,
 - Unity.
