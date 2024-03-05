@@ -2,6 +2,9 @@
 ## Current Work:
 UI Developer on Spirit of the North 2.
 
+## Current Hobby Project:
+[Tails Engine](https://github.com/ostanton/TailsEngine "Tails Engine GitHub Repo")
+
 ## Education:
 - Computer Games Design 2nd year student at Anglia Ruskin University, Cambridge.
 
