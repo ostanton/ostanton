@@ -1,15 +1,17 @@
 # Hello World!
 ## Current Work:
-UI Developer on Spirit of the North 2.
+UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/1778840/Spirit_of_the_North_2/ "SOTN2 Steam Page").
 
 ## Current Hobby Project:
-[Tails Engine](https://github.com/ostanton/TailsEngine "Tails Engine GitHub Repo")
+[Tails Engine](https://github.com/ostanton/TailsEngine "Tails Engine GitHub Repo").
 
 ## Education:
 - Computer Games Design 2nd year student at Anglia Ruskin University, Cambridge.
 
 ## Interests:
-- User Interfaces, both programming them and designing them.
+- User Interfaces, both programming them and designing them,
+- Object-Oriented Programming,
+- Low-level programming.
 
 ## Proficient Languages
 - C++,
