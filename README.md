@@ -3,7 +3,7 @@
 UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/1778840/Spirit_of_the_North_2/ "SOTN2 Steam Page").
 
 ## Current Hobby Project:
-[Tails Engine](https://github.com/ostanton/TailsEngine "Tails Engine GitHub Repo").
+[Tails Engine](https://github.com/ostanton/TailsEngine "Tails Engine GitHub Repo"). A simple 2D, C++, SFML-based engine. Like every other SFML game engine, except I made it so it's slightly different at least!
 
 ## Education:
 - Computer Games Design 2nd year student at Anglia Ruskin University, Cambridge.
@@ -13,7 +13,7 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 - Object-Oriented Programming,
 - Low-level programming.
 
-## Proficient Languages
+## Proficient Languages:
 - C++,
 - Unreal Blueprints,
 - HTML & CSS.
