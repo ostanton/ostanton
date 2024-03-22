@@ -11,11 +11,12 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 ## Interests:
 - User Interfaces, both programming them and designing them,
 - Object-Oriented Programming,
-- Low-level programming.
+- Lower-level programming.
 
 ## Proficient Languages:
 - C++,
 - Unreal Blueprints,
+- D,
 - HTML & CSS.
 
 ## Proficient Engines:
