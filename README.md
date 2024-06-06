@@ -17,7 +17,10 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 - C++,
 - Unreal Blueprints,
 - D,
+- C#,
 - HTML & CSS,
+- JSON,
+- XML/XAML/etc.,
 - Learning Odin.
 
 ## Proficient Engines:
