@@ -14,18 +14,18 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 - Lower-level programming.
 
 ## Proficient Languages
-- C++,
+- C++ & CMake,
 - Unreal Blueprints,
 - D,
 - C#,
 - HTML & CSS,
 - JSON,
-- XML/XAML/etc.,
-- Learning Odin.
+- XML/XAML/etc.
 
 ## Proficient Engines
 - Unreal Engine,
-- Unity.
+- Unity,
+- Godot (C#, some GDscript).
 
 ## Career Experience
 - Web Development for Site-Street,
