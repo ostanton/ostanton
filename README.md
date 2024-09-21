@@ -6,7 +6,7 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 [Tails Engine](https://github.com/ostanton/TailsEngine "Tails Engine GitHub Repo"). A 2D, C++, SFML-based game engine, for GBA-style game creation.
 
 ## Education
-- Computer Games Design 2nd year student at Anglia Ruskin University, Cambridge.
+- Computer Games Design 3rd year student at Anglia Ruskin University, Cambridge.
 
 ## Interests
 - User Interfaces, both programming them and designing them,
