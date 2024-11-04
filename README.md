@@ -23,7 +23,8 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 
 ## Other Languages I Enjoy
 - Zig,
-- D.
+- D,
+- Dart.
 
 ## Proficient Engines
 - Unreal Engine,
