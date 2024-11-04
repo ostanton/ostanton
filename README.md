@@ -16,11 +16,14 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 ## Proficient Languages
 - C++ & CMake,
 - Unreal Blueprints,
-- D,
 - C#,
 - HTML & CSS,
 - JSON,
 - XML/XAML/etc.
+
+## Other Languages I Enjoy
+- Zig,
+- D.
 
 ## Proficient Engines
 - Unreal Engine,
@@ -29,7 +32,8 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 
 ## Career Experience
 - Web Development for Site-Street,
-- UI Developer for Infuse Studio.
+- UI Developer (programmer & partial designer) for Infuse Studio,
+- Contract UI Programmer for Crowbar Collective.
 
 More about my hobbies and interests: [oliverstanton.co.uk](https://oliverstanton.co.uk/)
 
