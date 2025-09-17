@@ -17,13 +17,13 @@ UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/17788
 ## Proficient Languages
 - C++ & CMake,
 - Unreal Blueprints,
+- Zig,
 - C#,
 - HTML & CSS,
 - JSON,
 - XML/XAML/etc.
 
 ## Other Languages I Enjoy
-- Zig,
 - D,
 - Dart.
 
