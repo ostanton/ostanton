@@ -1,6 +1,6 @@
 # Hello World!
 ## Current Work
-UI Developer on [Spirit of the North 2](https://store.steampowered.com/app/1778840/Spirit_of_the_North_2/ "SOTN2 Steam Page").
+Contracted generalist programmer for [Infuse Studio](https://infusedstudio.com/).
 
 ## Current Hobby Projects
 - [Macro System](https://github.com/ostanton/MacroSystem "Macro System GitHub Repo"). An Unreal Engine 5 plugin - a runtime macro system, allowing players to create user macros to execute in-game.
