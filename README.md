@@ -18,7 +18,7 @@ Contracted generalist programmer for [Infuse Studio](https://infusedstudio.com/)
 - C++,
 - Unreal Blueprints,
 - Zig,
-- C#,
+- C#.
 
 ## Other Languages I Enjoy
 - D,
@@ -26,8 +26,7 @@ Contracted generalist programmer for [Infuse Studio](https://infusedstudio.com/)
 
 ## Proficient Engines
 - Unreal Engine,
-- Unity,
-- Godot (C#, some GDscript).
+- Unity.
 
 ## Career Experience
 - Web Development for Site-Street,
