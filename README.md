@@ -2,10 +2,6 @@
 ## Current Work
 Contracted generalist programmer for [Infuse Studio](https://infusedstudio.com/).
 
-## Current Hobby Projects
-- [Macro System](https://github.com/ostanton/MacroSystem "Macro System GitHub Repo"). An Unreal Engine 5 plugin - a runtime macro system, allowing players to create user macros to execute in-game.
-- [Tails Engine](https://github.com/ostanton/TailsEngine "Tails Engine GitHub Repo"). An in-development, general purpose game "engine". Meant to be very cross platform, and uses SDL3.
-
 ## Education
 - BA (Hons) in Computer Games Design.
 
